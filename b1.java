@@ -1,5 +1,6 @@
 public class master{
   int cgpa;
+  String name;
 
   master(int cgpa){
     this.cgpa = cgpa;
